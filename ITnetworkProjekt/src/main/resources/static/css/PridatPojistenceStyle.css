@@ -1,0 +1,13 @@
+
+@media(min-width: 992px){
+    #submitBtn{
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+}
+
+@media(max-width: 768px){
+    #submitBtn{
+        margin-top: 10%;
+    }
+}
